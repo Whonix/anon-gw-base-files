@@ -1,0 +1,20 @@
+## This file is part of Whonix.
+## Copyright (C) 2012 - 2014 Patrick Schleizer <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+Source: anon-gw-base-files
+Section: misc
+Priority: optional
+Maintainer: Patrick Schleizer <adrelanos@riseup.net>
+Build-Depends: debhelper (>= 8), faketime
+Homepage: https://github.com/Whonix/anon-gw-base-files
+Vcs-Browser: https://github.com/Whonix/anon-gw-base-files
+Vcs-Git: https://github.com/Whonix/anon-gw-base-files.git
+Standards-Version: 3.9.4
+
+Package: anon-gw-base-files
+Architecture: all
+Depends: ${misc:Depends}
+Description: Base files for Anonymity Distribution Gateways
+ Provides a /usr/share/anon-gw-base-files/gateway marker file, which allows
+ other packages to identify, that this is an anonymity distribution gateway.
