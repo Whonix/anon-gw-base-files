@@ -19,3 +19,6 @@ Conflicts: anon-ws-base-files
 Description: Base files for Anonymity Distribution Gateways
  Provides a /usr/share/anon-gw-base-files/gateway marker file, which allows
  other packages to identify, that this is an anonymity distribution gateway.
+ .
+ Do not remove, unless you no longer wish to use an anonymity distribution
+ gateway.
