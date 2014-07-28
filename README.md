@@ -3,6 +3,9 @@
 Provides a /usr/share/anon-gw-base-files/gateway marker file, which allows
 other packages to identify, that this is an anonymity distribution gateway.
 
+Do not remove, unless you no longer wish to use an anonymity distribution
+gateway.
+
 (This package description has been [automatically](https://github.com/Whonix/whonix-developer-meta-files/blob/master/debug-steps/packaging-helper-script) extracted and mirrored from `debian/control`.)
 
 # Generic Readme #
