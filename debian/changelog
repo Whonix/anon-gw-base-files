@@ -1,3 +1,9 @@
+anon-gw-base-files (3:1.8-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Fri, 29 Mar 2019 09:39:33 +0000
+
 anon-gw-base-files (3:1.7-1) unstable; urgency=medium
 
   * New upstream version (local package).
