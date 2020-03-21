@@ -5,7 +5,7 @@ Source: anon-gw-base-files
 Section: misc
 Priority: optional
 Maintainer: Patrick Schleizer <adrelanos@riseup.net>
-Build-Depends: debhelper (>= 12), genmkfile
+Build-Depends: debhelper (>= 12), config-package-dev, genmkfile
 Homepage: https://github.com/Whonix/anon-gw-base-files
 Vcs-Browser: https://github.com/Whonix/anon-gw-base-files
 Vcs-Git: https://github.com/Whonix/anon-gw-base-files.git
@@ -15,6 +15,8 @@ Package: anon-gw-base-files
 Architecture: all
 Depends: ${misc:Depends}
 Conflicts: anon-ws-base-files
+Provides: ${diverted-files}
+Conflicts: ${diverted-files}
 Description: Base files for Anonymity Distribution Gateways
  Provides a /usr/share/anon-gw-base-files/gateway marker file, which allows
  other packages to identify, that this is an anonymity distribution gateway.
