@@ -1,3 +1,33 @@
+commit 6bf8a4e85375001c644c4f929b02cf336cd2a6ce
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Mar 21 14:51:45 2020 -0400
+
+    lintian
+
+commit cf0494e24cd4c4ab9568e17a76e10486bd862a61
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Mar 21 14:48:58 2020 -0400
+
+    fix
+
+commit 15e0a6fedd91c9b6b9b266412fd8c4942bbd6b50
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Mar 21 14:44:44 2020 -0400
+
+    import anon-ws-base-files etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml.anondist
+
+commit 8693bf86dbf16b6b0a99b276195a6e28a2501a64
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Mar 21 13:48:51 2020 -0400
+
+    config-package-dev displace /etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml
+
+commit 276c095eb3cc1f02fb33dce9ed9f4bf80ac6c272
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Aug 1 11:17:41 2019 +0000
+
+    bumped changelog version
+
 commit 4adb226a1795e9e221d3ceae8cc5ed1533cad558
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Aug 1 11:13:29 2019 +0000
