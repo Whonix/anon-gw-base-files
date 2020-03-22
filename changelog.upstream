@@ -1,3 +1,15 @@
+commit 9dd85f6fe2a419d6858e379d5389cd999b640905
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Mar 22 05:47:22 2020 -0400
+
+    fix file names for config-package-dev displace
+
+commit 7ed515731986159cecfb46da22588000b775c985
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Mar 21 14:55:24 2020 -0400
+
+    bumped changelog version
+
 commit 6bf8a4e85375001c644c4f929b02cf336cd2a6ce
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Sat Mar 21 14:51:45 2020 -0400
