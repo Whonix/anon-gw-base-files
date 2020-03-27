@@ -1,3 +1,33 @@
+commit 00d3916cca55f3fb69948c76f726df8eaba3e9f2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Mar 27 07:18:57 2020 -0400
+
+    readme
+
+commit 535aee3d55ad6665c89009824aa6972f08c348ee
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Mar 27 07:16:44 2020 -0400
+
+    description
+
+commit 393ed6e608383947f077a880b6ced489ea952a64
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Mar 27 07:14:17 2020 -0400
+
+    add Whonix-Gateway grub, motd, issue branding
+
+commit 34e156919a33dfe6c45a873f6c5997ebb53a4f18
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Mar 27 07:13:58 2020 -0400
+
+    add Whonix-Gateway grub, motd, issue branding
+
+commit 2a1bd9370c933a980c000ba5582b3a5116dc05d0
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sun Mar 22 06:13:16 2020 -0400
+
+    bumped changelog version
+
 commit 9dd85f6fe2a419d6858e379d5389cd999b640905
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Sun Mar 22 05:47:22 2020 -0400
