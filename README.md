@@ -3,6 +3,11 @@
 Provides a /usr/share/anon-gw-base-files/gateway marker file, which allows
 other packages to identify, that this is an anonymity distribution gateway.
 
+Whonix-Gateway grub branding, motd and issue banner.
+
+Sets XFCE desktop and display setting, wallpaper and desktop icons.
+/etc/skel/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-desktop.xml.anondist
+
 Do not remove, unless you no longer wish to use an anonymity distribution
 gateway.
 ## How to install `anon-gw-base-files` using apt-get ##
