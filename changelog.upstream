@@ -1,3 +1,27 @@
+commit 55b4134f1ba1bad3ce7fac0d1ff50294894ed127
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 7 10:02:58 2020 +0000
+
+    etc/update-motd.d/30_whonix-gateway.motd -> etc/update-motd.d/30_whonix-gateway
+
+commit 8e4c5bd536bd8dbb2dbae495768491c44c1f0600
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 7 10:02:18 2020 +0000
+
+    convert to script
+
+commit bff662d97810bf6680fe7623af3d09af32317573
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 7 09:50:04 2020 +0000
+
+    fix, renamed:    usr/lib/motd.d/30_whonix-gateway.motd -> etc/update-motd.d/30_whonix-gateway.motd
+
+commit 2458e147e431b72eeaf1c057301db15946a31105
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 2 07:26:33 2020 -0400
+
+    bumped changelog version
+
 commit 4e630295c68fdc4275e0fe1f123de0f3394e71ea
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Thu Apr 2 07:22:08 2020 -0400
