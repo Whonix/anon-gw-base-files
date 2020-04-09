@@ -1,3 +1,22 @@
+commit 325066e6e7e424802f6e36937f2eaab55ee02dd4
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 9 09:51:45 2020 +0000
+
+    move to whonix-base-files
+
+commit 341080e895e76c669fbfbfbf4a8b54907650d2fe
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 9 09:50:24 2020 +0000
+
+    Skip Qubes default password until Qubes sudo gets implemented.
+    https://github.com/QubesOS/qubes-issues/issues/2695
+
+commit f5dab1ab36a58cd2593183e72178587815e21a05
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Apr 7 10:34:30 2020 +0000
+
+    bumped changelog version
+
 commit 55b4134f1ba1bad3ce7fac0d1ff50294894ed127
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Tue Apr 7 10:02:58 2020 +0000
