@@ -1,3 +1,19 @@
+commit 201a2d6dbaf4e7ecbb1b88e0aa37d90caaae392d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Apr 20 09:08:24 2020 -0400
+
+    set Whonix-Gateway desktop background color to black
+    
+    to be easier to e distinguished
+    
+    Thanks to @tempest for the suggestion!
+
+commit 8668db2abd6711f844f82aefd1ed26dea99f85d5
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Thu Apr 16 08:20:17 2020 -0400
+
+    bumped changelog version
+
 commit 8df6ec598ddcb5160ba4268389708a86ea7ddad3
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Wed Apr 15 14:05:26 2020 -0400
