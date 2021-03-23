@@ -15,7 +15,8 @@ Package: anon-gw-base-files
 Architecture: all
 Depends: ${misc:Depends}
 Provides: ${diverted-files}
-Conflicts: ${diverted-files}, anon-ws-base-files
+Conflicts: anon-ws-base-files,
+ ${diverted-files}
 Description: Base files for Anonymity Distribution Gateways
  Provides a /usr/share/anon-gw-base-files/gateway marker file, which allows
  other packages to identify, that this is an anonymity distribution gateway.
