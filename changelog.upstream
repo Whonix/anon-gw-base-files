@@ -1,3 +1,15 @@
+commit 2ca7a856386a14f6dd69e7547e4977d652867841
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Sep 15 03:49:10 2021 -0400
+
+    fix background image
+
+commit b0a3bd14a31b88724f4f7115c61e42564e14d07f
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Sep 11 18:31:20 2021 -0400
+
+    bumped changelog version
+
 commit 982190cd7cd6b303bea9042f8aea22c196f856af
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Sep 11 16:31:03 2021 -0400
