@@ -1,3 +1,15 @@
+commit 654f88a52a649c92b52e2304f886be7260d4ff77
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Oct 15 18:29:42 2021 -0400
+
+    KVM desktop background
+
+commit 5f454d2054fef1eb9aa3cd06d9e3842ceb5c7320
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Sep 15 03:49:48 2021 -0400
+
+    bumped changelog version
+
 commit 2ca7a856386a14f6dd69e7547e4977d652867841
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Wed Sep 15 03:49:10 2021 -0400
