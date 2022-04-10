@@ -10,6 +10,7 @@ Sets Xfce desktop and display setting, wallpaper and desktop icons.
 
 Do not remove, unless you no longer wish to use an anonymity distribution
 gateway.
+
 ## How to install `anon-gw-base-files` using apt-get ##
 
 1\. Download the APT Signing Key.
@@ -18,7 +19,7 @@ gateway.
 wget https://www.whonix.org/derivative.asc
 ```
 
-Users can [check Whonix Signing Key](https://www.whonix.org/wiki/Whonix_Signing_Key) for better security.
+Users can [check Whonix Signing Key](https://www.whonix.org/wiki/Signing_Key) for better security.
 
 2\. Add the APT Signing Key..
 
@@ -52,7 +53,9 @@ Can be build using standard Debian package build tools such as:
 dpkg-buildpackage -b
 ```
 
-See instructions. (Replace `generic-package` with the actual name of this package `anon-gw-base-files`.)
+See instructions.
+
+NOTE: Replace `generic-package` with the actual name of this package `anon-gw-base-files`.
 
 * **A)** [easy](https://www.whonix.org/wiki/Dev/Build_Documentation/generic-package/easy), _OR_
 * **B)** [including verifying software signatures](https://www.whonix.org/wiki/Dev/Build_Documentation/generic-package)
