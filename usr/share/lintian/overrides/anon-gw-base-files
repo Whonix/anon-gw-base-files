@@ -2,4 +2,4 @@
 ## See the file COPYING for copying conditions.
 
 ## The whole point of the package.
-anon-gw-base-files: package-contains-file-in-etc-skel etc/skel/*
+anon-gw-base-files: package-contains-file-in-etc-skel [etc/skel/*]
