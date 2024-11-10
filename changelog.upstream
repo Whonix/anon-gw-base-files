@@ -1,3 +1,22 @@
+commit db97efaf887f1da56dc514b5986f221242b2ce5d
+Merge: 45817a9 4384845
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Nov 10 06:38:23 2024 -0500
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/grub-theme'
+
+commit 4384845c7c261cb69196c67fedec1fa6598e61d5
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Fri Nov 1 17:23:02 2024 -0500
+
+    Add Whonix Gateway GRUB theme
+
+commit 45817a9e4c419c2ac92762247dd5389b7467c8ff
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Jul 28 23:22:43 2024 +0000
+
+    bumped changelog version
+
 commit f4808afab081f9a2efd25b76851b88cfdf07f5b4
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sun Jul 28 19:16:37 2024 -0400
