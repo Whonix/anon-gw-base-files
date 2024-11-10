@@ -1,5 +1,8 @@
-## Copyright (C) 2019 - 2023 ENCRYPTED SUPPORT LP <adrelanos@whonix.org>
+## Copyright (C) 2019 - 2024 ENCRYPTED SUPPORT LP <adrelanos@whonix.org>
 ## See the file COPYING for copying conditions.
 
 ## The whole point of the package.
 anon-gw-base-files: package-contains-file-in-etc-skel [etc/skel/*]
+
+anon-gw-base-files: package-contains-documentation-outside-usr-share-doc [boot/grub/themes/whonix-gateway/theme-16x9.txt]
+anon-gw-base-files: package-contains-documentation-outside-usr-share-doc [boot/grub/themes/whonix-gateway/theme-4x3.txt]
