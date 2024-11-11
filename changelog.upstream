@@ -1,3 +1,22 @@
+commit 90d6faaa56d83128cd57783b578ecb7f11b95860
+Merge: 4afd354 8f9e63c
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Nov 11 09:34:28 2024 -0500
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/grub-theme-fix'
+
+commit 8f9e63cb89057cf5b487b7056fa87107d3219ba9
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Sun Nov 10 14:48:51 2024 -0600
+
+    Break out common GRUB theme elements, adjust
+
+commit 4afd354ade7b57d3d046f45589abac351baf4e9b
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Nov 10 13:42:55 2024 +0000
+
+    bumped changelog version
+
 commit 76553a8f7ad2b6ecb052de201b8757753dc07caf
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sun Nov 10 08:41:25 2024 -0500
