@@ -1,3 +1,22 @@
+commit 43393b1a4d368128fa924c2e4c21064521057aa9
+Merge: 3c870a4 b0c1b0a
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Nov 21 06:31:23 2024 -0500
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/no-grub-theme-icon'
+
+commit b0c1b0a5af1ec91ded538cb781abd0bdadabad55
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Wed Nov 20 18:49:49 2024 -0600
+
+    Remove distro icon from GRUB theme
+
+commit 3c870a45b124f5ec1c77819c9a278a823d07c6c6
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Nov 11 14:56:38 2024 +0000
+
+    bumped changelog version
+
 commit 90d6faaa56d83128cd57783b578ecb7f11b95860
 Merge: 4afd354 8f9e63c
 Author: Patrick Schleizer <adrelanos@whonix.org>
