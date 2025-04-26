@@ -1,3 +1,22 @@
+commit ae6cd4ccb62c74247ae5255a727f1285ebd29cb8
+Merge: a7cf0ce b7143f3
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Apr 25 23:35:51 2025 -0400
+
+    Merge remote-tracking branch 'ArrayBolt3/arrabolt3/grub-theme'
+
+commit b7143f35301c0f27aef6f0e8c98386476b200f35
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Fri Apr 25 15:33:10 2025 -0500
+
+    Tweak grub theme wording
+
+commit a7cf0ceb7f9ffe0a02a075200ba44d6b801ce0b7
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Dec 31 19:21:55 2024 +0000
+
+    bumped changelog version
+
 commit ed4308a2e2e29d7e404ec5b05624b3ce0dd2f241
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Tue Dec 31 13:26:24 2024 -0500
