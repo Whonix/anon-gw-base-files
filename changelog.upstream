@@ -1,3 +1,22 @@
+commit 2f38125f0155df0fea29b4fcf3acf7b52018d80e
+Merge: dcf8d95 9525c73
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Apr 28 23:51:02 2025 -0400
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/grub-menu'
+
+commit 9525c736279ec88a135aa18afb3cae23cb625e5b
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Mon Apr 28 18:52:04 2025 -0500
+
+    Adjust persistent mode wording
+
+commit dcf8d95dbcd124c6821f0684d009de929e3c7402
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Apr 26 03:38:58 2025 +0000
+
+    bumped changelog version
+
 commit ae6cd4ccb62c74247ae5255a727f1285ebd29cb8
 Merge: a7cf0ce b7143f3
 Author: Patrick Schleizer <adrelanos@whonix.org>
