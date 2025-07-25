@@ -1,0 +1,10 @@
+## Copyright (C) 2025 - 2025 ENCRYPTED SUPPORT LLC <adrelanos@whonix.org>
+## See the file COPYING for copying conditions.
+
+[Desktop Entry]
+Name=sysmaint-panel
+Comment=System Maintenance Panel
+Type=Application
+Terminal=false
+Exec=/usr/libexec/anon-gw-base-files/launch-sysmaint-panel-maybe
+#NotShowIn=QUBES;
