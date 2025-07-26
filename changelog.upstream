@@ -1,3 +1,22 @@
+commit 94ad50a4818d56f98bef55b5fc6cc9c8dba87158
+Merge: 1f6d45b 35b5fb6
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Jul 26 05:01:41 2025 -0400
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/sysmaint-panel'
+
+commit 35b5fb6b4cfd180c5546e29ad001b1a25a74d442
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Fri Jul 25 18:09:41 2025 -0500
+
+    Autostart sysmaint panel on non-Qubes Whonix-Gateway
+
+commit 1f6d45b17f67d9466857656a972ce3b360628af0
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Jun 6 20:56:19 2025 +0000
+
+    bumped changelog version
+
 commit b508a16480fec9b158c455d3c3f1bd022b705c24
 Merge: 0cbbbb8 5eb32f7
 Author: Patrick Schleizer <adrelanos@whonix.org>
