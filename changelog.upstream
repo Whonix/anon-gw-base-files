@@ -1,3 +1,22 @@
+commit 783e14bbbc2520a6fbdb00bd7c346d9e1424f391
+Merge: e037d36 49f4737
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Aug 30 09:20:17 2025 -0400
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/trixie'
+
+commit 49f4737e5d1e2310fea88fecc383c07274ac3fad
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Thu Aug 28 22:49:08 2025 -0500
+
+    Remove volume controls from Whonix-Gateway
+
+commit e037d3682d1094a664e5bfe632081208b82829c0
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 27 19:37:20 2025 +0000
+
+    bumped changelog version
+
 commit 093cacf97e63b2261244cdf082ccfef43f12c42d
 Merge: 7339392 a920a0b
 Author: Patrick Schleizer <adrelanos@whonix.org>
