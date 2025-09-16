@@ -1,3 +1,16 @@
+commit c34c0fae8bef4ad9333da79d507a72796b350e8d
+Merge: c7f4f5b 0707f39
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Sep 16 01:10:44 2025 -0400
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/sdwdate-gui'
+
+commit c7f4f5bc35792faff06f57bea5357dcba3a9f614
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Sep 2 15:33:04 2025 +0000
+
+    bumped changelog version
+
 commit 90981efc914f6744b3da26b763f1179e3c5d200c
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Aug 30 14:21:23 2025 +0000
@@ -92,6 +105,12 @@ Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
 Date:   Fri Jul 25 18:09:41 2025 -0500
 
     Autostart sysmaint panel on non-Qubes Whonix-Gateway
+
+commit 0707f399c6f98e9db733df72a85ccd278f7696dc
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Tue Jun 24 17:20:53 2025 -0500
+
+    Enable sdwdate_gui_server in Whonix-Gateway qubes
 
 commit 1f6d45b17f67d9466857656a972ce3b360628af0
 Author: Patrick Schleizer <adrelanos@whonix.org>
