@@ -1,3 +1,28 @@
+commit b61ded3cb955f8c970ae17bbd718142fefec4ff7
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Oct 18 04:50:48 2025 -0400
+
+    rm_conffile etc /xdg/autostart/sysmaint-panel.desktop
+
+commit 02dc61ca2a78ce6d89522e7fb740755530aa0768
+Merge: 2c89532 413bca2
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Oct 18 04:48:46 2025 -0400
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/trixie'
+
+commit 413bca22769e21f579dddcf4fc1098d29acb5016
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Fri Oct 17 17:27:42 2025 -0500
+
+    Do not auto-launch sysmaint-panel in Whonix-Gateway anymore
+
+commit 2c895320ffac7f63b7bf15fc53b19f234bfc9c81
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Sep 28 21:11:59 2025 +0000
+
+    bumped changelog version
+
 commit 37c5e7ed3346b223f7ed1121c7efc9399293998b
 Merge: 0207d8f a5533a2
 Author: Patrick Schleizer <adrelanos@whonix.org>
