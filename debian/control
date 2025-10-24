@@ -18,6 +18,8 @@ Depends: ${misc:Depends}
 Provides: ${diverted-files}
 Conflicts: anon-ws-base-files,
  ${diverted-files}
+Breaks: desktop-config-dist (<< 3:14.7-1)
+Replaces: desktop-config-dist (<< 3:14.7-1)
 Description: Base files for Anonymity Distribution Gateways
  Provides a /usr/share/anon-gw-base-files/gateway marker file, which allows
  other packages to identify, that this is an anonymity distribution gateway.
