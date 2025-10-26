@@ -1,3 +1,22 @@
+commit e876eeac5044b729abc074d0657bc7aa777e5382
+Merge: 6f3ae32 d17ba12
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Oct 26 06:15:40 2025 -0400
+
+    Merge remote-tracking branch 'ArrayBolt3/arraybolt3/trixie'
+
+commit d17ba126830e94246b12ba95c48b6110d5ca05f1
+Author: Aaron Rainbolt <arraybolt3@ubuntu.com>
+Date:   Fri Oct 24 15:36:05 2025 -0500
+
+    Fully remove the pulseaudio module from Waybar in sysmaint sessions
+
+commit 6f3ae32e7a7623b4ec13076b74b7e641a4e59f7d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Fri Oct 24 08:15:47 2025 +0000
+
+    bumped changelog version
+
 commit 0d3aad9d09c4f7111b2ddd21e0f687f5ddb15f99
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Fri Oct 24 04:14:29 2025 -0400
