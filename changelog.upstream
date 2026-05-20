@@ -1,3 +1,9 @@
+commit 44bc6e7f5503fbe0de3553903f5e0387eb82d3e5
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Mar 28 09:56:11 2026 +0000
+
+    bumped changelog version
+
 commit bc39df7fd5ae1dd15e0a9af804cb531f1abba339
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Mar 28 05:31:20 2026 -0400
@@ -522,7 +528,7 @@ Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Nov 11 13:41:26 2023 -0500
 
     change license to AGPL-3+
-    
+
     https://forums.whonix.org/t/license-change-to-agplv3/17455
 
 commit 893830e6f10021f0597421eb0395ee185521f176
@@ -698,7 +704,7 @@ Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sun Aug 29 16:29:21 2021 -0400
 
     bullseye background image fix
-    
+
     https://forums.whonix.org/t/whonix-xfce-wallpaper-background-image/7984
 
 commit 282b54fc3b772798e01ab39882af1232688e2094
@@ -760,9 +766,9 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Apr 20 09:08:24 2020 -0400
 
     set Whonix-Gateway desktop background color to black
-    
+
     to be easier to e distinguished
-    
+
     Thanks to @tempest for the suggestion!
 
 commit 8668db2abd6711f844f82aefd1ed26dea99f85d5
@@ -1035,18 +1041,18 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Mar 1 14:31:47 2019 +0000
 
     add improved legal protections clauses
-    
+
     The license for software created by Whonix is the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version with additional terms applicable per GNU GPL version 3 section 7.
-    
+
     The additional terms are based on the Doom 3 license which is Debian refers to as `GPL-3+-with-id-software-additional-terms`, which is Debian DFSG [1] (The Debian Free Software Guidelines) approved and which is therefore suitable for Debian `main`. Whonix made applied minimal changes to it:
-    
+
     * Rewrite `The Doom 3 BFG Edition GPL Source Code` to the more common `this program` which is used throughout the GPL.
     * Added a "trump clause" [2], in other words, any conflicts or disputes between the additional terms and the GPLv3 shall be resolved in favor of the GPLv3 by adding `Notwithstanding any other provision of this License` (as mentioned in GPL FAQ [3]) at the beginning of the additional terms.
-    
+
     [1] https://www.debian.org/social_contract#guidelines
     [2] https://www.fsf.org/news/canonical-updated-licensing-terms
     [3] https://www.gnu.org/licenses/gpl-faq.html#v3Notwithstanding
-    
+
     For more considerations, see also:
     https://www.whonix.org/wiki/Dev/Licensing
 
@@ -1109,7 +1115,7 @@ Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Feb 10 15:47:48 2017 +0000
 
     remove faketime from Build-Depends:
-    
+
     since no longer used for reproducible builds
 
 commit 52b906c5639cbdc8f2ef2529db36e5efff279f47
